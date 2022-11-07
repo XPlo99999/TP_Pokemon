@@ -1,0 +1,15 @@
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.csproj.AssemblyReference.cache
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.AssemblyInfoInputs.cache
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.AssemblyInfo.cs
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\bin\Debug\net6.0\Exercice_Pokemon.exe
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\bin\Debug\net6.0\Exercice_Pokemon.deps.json
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\bin\Debug\net6.0\Exercice_Pokemon.runtimeconfig.json
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\bin\Debug\net6.0\Exercice_Pokemon.dll
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\bin\Debug\net6.0\Exercice_Pokemon.pdb
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.dll
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\refint\Exercice_Pokemon.dll
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.pdb
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\Exercice_Pokemon.genruntimeconfig.cache
+C:\Users\XPlo99999\source\repos\Exercice_Pokemon\obj\Debug\net6.0\ref\Exercice_Pokemon.dll
